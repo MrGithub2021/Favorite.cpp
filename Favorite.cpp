@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
-#include <iostream>
-using namespace std;
 int main() {
   cout << "What is your favorite programming language? \n\n";
   cout << "Choose Wisely................ \n";
